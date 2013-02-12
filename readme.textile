@@ -1,0 +1,5 @@
+This is a mirror of the jQuery SVG plugin by Keith Wood.
+
+More information incl. license information:
+
+http://keith-wood.name/svg.html
